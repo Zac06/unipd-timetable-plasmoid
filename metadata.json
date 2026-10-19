@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Id": "it.zac06.unipd-timetable",
+        "Name": "UniPD Timetable",
+        "Description": "Orario delle lezioni UniPD (Agenda Studenti / EasyCourse) per un corso di studio",
+        "Icon": "view-calendar-timeline",
+        "Authors": [{ "Name": "Zaccaria Francescato" }],
+        "Category": "Online Services",
+        "License": "GPL-3.0+",
+        "Version": "0.1.0",
+        "EnabledByDefault": true
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
